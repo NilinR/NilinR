@@ -1,10 +1,10 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Thanks for visiting my GitHub profile \^-^/ ! 
+Welcome my GitHub profile '☆ ～('▽^人)' ! 
 
-I'm Nilin, a passionate developer who loves building cool creative things and solving problems. ✨
+I'm Nilin, a passionate developer who loves building cool creative things and solving problems. ━━━★
 
-🎯Currently Learning Full-Stack, AI/ML and UI UX design for a smarter better development style!  
+Currently Learning Full-Stack, AI/ML and UI UX design for a smarter better development style! ★,｡･:*:･ﾟ’☆
 
 ---
 
@@ -30,7 +30,6 @@ I'm Nilin, a passionate developer who loves building cool creative things and so
   <a href="mailto:nilinr0@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-> _"A problem can be solved in a 100 different ways 
-There's always an easier way to solve a problem.
-You miss 100% of the shots you don't take.🌟💪🔥"_
+> _"A problem can be solved in a 100 different ways!<3
+You miss 100% of the shots you don't take." (` ﾛ ´)︻デ═一 💪_
 
