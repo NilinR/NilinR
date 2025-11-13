@@ -9,10 +9,10 @@ Currently Learning Full-Stack, AI/ML and UI UX design for a smarter better devel
 ---
 
 🌟 **About Me**
-- 🖥️ Aspiring Software Engineer with a special intrest in Backend dev.
-- 📚 BTech CS Student 🎓
-- 💡 Love working on innovative projects
-- ⚡ Always learning and growing!
+- Aspiring Software Engineer with a special intrest in Backend dev.
+- BTech CS Student 🎓
+- Love working on innovative projects
+-  Always learning and growing!
 
 ---
 
